@@ -1,2 +1,3 @@
 #!/bin/sh
 date >~/www/cidate
+echo "done"
