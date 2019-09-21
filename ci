@@ -1,5 +1,5 @@
 #!/bin/sh
-cp -r site ~/www/
 mkdocs build
+cp -r site ~/www/
 date >~/www/cidate
 echo "done"
