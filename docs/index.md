@@ -1,21 +1,3 @@
-[ EVERGREEN COMMUNITY CHURCH ](index.html)
-
-  * [ REGULAR MEETINGS ](index.html)
-  * [ WHO WE ARE ](who-we-are.html)
-  * [ WHAT WE BELIEVE ](what-we-believe.html)
-  * [ FIND US ](find-us.html)
-  * [ EVENTS ](events.html)
-  * [ SERMONS ](sermons.html)
-
-    * [ LIBRARY  ](library.html)
-
-  * [ CALENDAR ](calendar.html)
-  * [ CONTACT US ](contact-us.html)
-
-  
-  
----  
-  
 Lots going on! Visit us at our stall at Powhatan's "Festival of the Grape" and
 come to our Community Dance | For more information go to "Events"
 
@@ -25,7 +7,7 @@ We meet at 9:30 AM every Sunday.
 ​Our service is followed by an open time of getting to know people and  
 catching up over free coffee, tea and bagels!
 
-[ Find us here ](find-us.html)
+[ Find us here ](find-us)
 
 ## Cross Walk - Youth Ministry
 
@@ -42,31 +24,10 @@ Young Men's and Young Women's evening studies and fellowship meet weekly.
 
 For more details of times and places go to the "calendar"
 
-[ Contact us for more details ](contact-us.html)
+[ Contact us for more details ](contact-us)
 
 BRANCH GROUPS  
 Our small group ministry gives us the opportunity to grow in faith, to
 encourage one another, and to share Christian hospitality with our friends and
 neighbors.  Small group meetings, including all age groups, are held weekly in
 members' homes.  
-  
-|
-
-|  
-  
----|---  
-  
-Proudly powered by [Weebly](https://egpca.weebly.com/_blank)  
-  
-  * [ REGULAR MEETINGS ](index.html)
-  * [ WHO WE ARE ](who-we-are.html)
-  * [ WHAT WE BELIEVE ](what-we-believe.html)
-  * [ FIND US ](find-us.html)
-  * [ EVENTS ](events.html)
-  * [ SERMONS ](sermons.html)
-
-    * [ LIBRARY  ](library.html)
-
-  * [ CALENDAR ](calendar.html)
-  * [ CONTACT US ](contact-us.html)
-

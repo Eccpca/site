@@ -1,45 +1,24 @@
-[ EVERGREEN COMMUNITY CHURCH ](index.html)
-
-  * [ REGULAR MEETINGS ](index.html)
-  * [ WHO WE ARE ](who-we-are.html)
-  * [ WHAT WE BELIEVE ](what-we-believe.html)
-  * [ FIND US ](find-us.html)
-  * [ EVENTS ](events.html)
-  * [ SERMONS ](sermons.html)
-
-    * [ LIBRARY  ](library.html)
-
-  * [ CALENDAR ](calendar.html)
-  * [ CONTACT US ](contact-us.html)
-
-  
-  
----  
   
 ##  
 ​ **UPCOMING EVENTS**
 
 ​
 
-![Picture](uploads/1/1/7/9/117912857/published/2019-women-s-
-retreat.jpeg%3F1568254732)
+![Picture](uploads/1/1/7/9/117912857/published/2019-women-s-retreat.jpeg)
 
 **Evergreen Women's Retreat   ** **" _Made for Relationship_ " **  
 Williamsburg Retreat Center,  October 18-20  
 ​We hope everyone will come for this special time  
 of fellowship, worship, and learning!  
-Go to our [Registration Page](https://evergreenpowhatan.us14.list-
-manage.com/track/click?u=94377799bbf85361c32bc6d2f&id=b1de8486ad&e=76a60db91f)
+Go to our [Registration Page](https://evergreenpowhatan.us14.list-manage.com/track/click?u=94377799bbf85361c32bc6d2f&id=b1de8486ad&e=76a60db91f)
 for more information  
 ​and to sign up!  
 For questions, please contact [Sheila
-Kendricken](mailto:skendricken@gmail.com),  [Jeni
-O'Neill](mailto:jeni_oneill@me.com) or [Christy
-Conner](mailto:koolconner4@gmail.com).
+Kendricken](mailto:skendricken@gmail.com),  [Jeni O'Neill](mailto:jeni_oneill@me.com) or [Christy Conner](mailto:koolconner4@gmail.com).
 
 * * *
 
-![Picture](uploads/1/1/7/9/117912857/published/barndance.jpg%3F250)
+![Picture](uploads/1/1/7/9/117912857/published/barndance.jpg)
 
   
 **​ Love to dance?**  
@@ -57,8 +36,7 @@ Directions [here](https://goo.gl/maps/3oAR3gX9oY4TDtj66) \- tickets below!
 
 ## **PAST EVENTS**
 
-![Picture](uploads/1/1/7/9/117912857/published/campfire-
-cookout_1.jpg%3F1564831190)
+![Picture](uploads/1/1/7/9/117912857/published/campfire-cookout_1.jpg)
 
   
 **​ Saturday  |  August 24  |  6-9 PM**  
@@ -72,7 +50,7 @@ fun, and fellowship with friends!
 
 |
 
-![Picture](uploads/1/1/7/9/117912857/editor/tea-time-slide.jpg%3F1562434930)
+![Picture](uploads/1/1/7/9/117912857/editor/tea-time-slide.jpg)
 
 |
 
@@ -89,8 +67,7 @@ fun, and fellowship with friends!
   
 ---|---  
   
-![Picture](uploads/1/1/7/9/117912857/editor/square-logo-social-media-with-
-date.jpg%3F1559427268)
+![Picture](uploads/1/1/7/9/117912857/editor/square-logo-social-media-with-date.jpg)
 
 VACATION BIBLE SCHOOL  
 Upward Bound - Hear from Eyewitnesses !  
@@ -103,7 +80,7 @@ Registration _**[here](https://form.jotform.com/91417311203140)**_ < click!
 
 * * *
 
-![Picture](uploads/1/1/7/9/117912857/published/board-game.jpg%3F1550028802)
+![Picture](uploads/1/1/7/9/117912857/published/board-game.jpg)
 
 ** ** POT LUCK AND GAME NIGHT  
   
@@ -117,7 +94,7 @@ SATURDAY EVENING | FEBRUARY 16 |  6:00 pm to 9:00 pm
 
 * * *
 
-![Picture](uploads/1/1/7/9/117912857/published/barn-dance.jpg%3F1546658232)
+![Picture](uploads/1/1/7/9/117912857/published/barn-dance.jpg)
 
 WINTER  DANCE !  
 (This was so much fun we'll do it again, soon!)  
@@ -154,7 +131,7 @@ OF COURSE > SNACKS AND CAMPFIRE!
 ![Picture](uploads/1/1/7/9/117912857/bible-camp_1_orig.png)
 
 7,8 & 9 AUGUST '18  |  EVENING PROGRAM  |  6:30PM TO 9:00PM  
-AT '[THE COOP](find-us.html)' < CLICK FOR DIRECTIONS  
+AT '[THE COOP](find-us)' < CLICK FOR DIRECTIONS  
 ​ OPEN FOR AGES 9 to 11 - REGISTER ON THIS
 [FORM](uploads/1/1/7/9/117912857/registration_form_bible_camp.docx)  
 SPACE IS LIMITED SO REGISTER SOON!
@@ -164,7 +141,7 @@ SPACE IS LIMITED SO REGISTER SOON!
 ## FINANCIAL PEACE COURSE  
 WE HOPE TO RUN THIS AGAIN !  
 ​IF YOU ARE INTERESTED  
-[CONTACT US!](contact-us.html)
+[CONTACT US!](contact-us)
 
 ![Picture](uploads/1/1/7/9/117912857/financial-peace-seminar_orig.jpg)
 
@@ -176,7 +153,7 @@ WE HOPE TO RUN THIS AGAIN !
 _When you are registered you get all material and online video links for past
 meetings!_**  
  **Location:**  
-At "​ _[The Coop](find-us.html)_ " <\- click here for a map  
+At "​ _[The Coop](find-us)_ " <\- click here for a map  
 ​For general information about this program click
 [here.](https://www.daveramsey.com/)
 
@@ -190,26 +167,4 @@ At "​ _[The Coop](find-us.html)_ " <\- click here for a map
 
 ## SEDAR MEAL | Saturday  |  24 MARCH 2018 |  6:00pm
 
-![Picture](uploads/1/1/7/9/117912857/farmland-wire-fence-
-sedar-1100px_1_orig.jpg)  
-  
-|
-
-|  
-  
----|---  
-  
-Proudly powered by [Weebly](https://egpca.weebly.com/_blank)  
-  
-  * [ REGULAR MEETINGS ](index.html)
-  * [ WHO WE ARE ](who-we-are.html)
-  * [ WHAT WE BELIEVE ](what-we-believe.html)
-  * [ FIND US ](find-us.html)
-  * [ EVENTS ](events.html)
-  * [ SERMONS ](sermons.html)
-
-    * [ LIBRARY  ](library.html)
-
-  * [ CALENDAR ](calendar.html)
-  * [ CONTACT US ](contact-us.html)
-
+![Picture](uploads/1/1/7/9/117912857/farmland-wire-fence-sedar-1100px_1_orig.jpg)  
