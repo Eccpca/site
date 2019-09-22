@@ -4,7 +4,7 @@
 
 ​
 
-![Picture](../uploads/1/1/7/9/117912857/published/2019-women-s-retreat.jpeg)
+![Picture](uploads/1/1/7/9/117912857/published/2019-women-s-retreat.jpeg)
 
 **Evergreen Women's Retreat   ** **" _Made for Relationship_ " **  
 Williamsburg Retreat Center,  October 18-20  
