@@ -1,3 +1,5 @@
 site_name: My Docs
-theme: 'material'
+theme: 
+        name: 'material'
+        custom_dir: custom
 repo_url: https://github.com/s2607/hooktest
