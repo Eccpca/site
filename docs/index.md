@@ -9,9 +9,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-##Another secion
-
-lalalala
 
 ## Project layout
 
