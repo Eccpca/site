@@ -2,5 +2,6 @@ site_name: My Docs
 theme: 
         name: 'material'
         custom_dir: custom
+        icon: ''
 repo_url: https://github.com/s2607/hooktest
 site_name: Evergreen Comunity Church
