@@ -1,7 +1,6 @@
-site_name: My Docs
-theme: 
-        name: 'material'
-        custom_dir: custom
-        icon: ''
+site_name: EPCA
+theme:
+ name: null
+ custom_dir: 'theme/'
 repo_url: https://github.com/s2607/hooktest
 site_name: Evergreen Comunity Church

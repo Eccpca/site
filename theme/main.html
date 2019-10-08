@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head> <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+	/*TODO: move to a seperate file*/
+		body{
+			margin:40px auto;
+			max-width:40em;
+			line-height:1.6;
+			font-size:18px;
+			color:#444;
+			padding:0 0.6em; 
+		}
+		h1,h2,h3{line-height:1.2}
+	</style>
+	<title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+	</head>
+	<body>
+	{{ page.content }}
+	</body>
+</html>
+
